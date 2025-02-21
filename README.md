@@ -9,8 +9,8 @@
         <h3>Grado: </h3><p>Ingeniero en Sistemas Computacionales 💻</p> 
         <h3>Actividad favorita: </h3> <p>Desarrollo de Software</p>
         <h3>Frases: </h3> 
-        <p>"Conocete a ti mismo"</p>
-        <p>"Hay un infinito que siempre nos separa"</p>
+        <p>"Conocete a ti mismo"🧏‍♂️</p>
+        <p>"Hay un infinito que siempre nos separa" ♾️</p>
         <p>"La programación es un arte, el lenguaje solo los colores" 🧑‍🎨</p>
       </p>
       </td>
