@@ -17,14 +17,18 @@
 </table>
 <h1 align='center'>Perfil</h1>
 <br/>
-<a href="Curriculum.pdf"><img src="Curriculum.png" width=300  align="left"></a>
-<p align="center">
+<table align="center">
+  <td>
+    <a href="Curriculum.pdf"><img src="Curriculum.png" width=300  align="left"></a>
+  </td>
+<td>
   
 ![Estadisticas Mike](https://github-readme-stats.vercel.app/api?username=ING-Mike-Programador&show_icons=true&theme=holi)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ING-Mike-Programador&show_icons=true&theme=github_dark&layout=donut)
-</p>
 
+</td>
+</table>
 <br>
 
 <br>
