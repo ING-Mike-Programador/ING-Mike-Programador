@@ -17,7 +17,7 @@
 </table>
 <h1 align='center'>Perfil</h1>
 <br/>
-<a href="Curriculum.pdf"><img src="Curriculum.png" width=400  align="left"></a>
+<a href="Curriculum.pdf"><img src="Curriculum.png" width=300  align="left"></a>
 <p align="center">
   
 ![Estadisticas Mike](https://github-readme-stats.vercel.app/api?username=ING-Mike-Programador&show_icons=true&theme=holi)
