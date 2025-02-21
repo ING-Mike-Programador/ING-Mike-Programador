@@ -1,4 +1,4 @@
-<h1>Bienvenido al perfil de Mike (Osea yo 🫢)</h1>
+<h1>Bienvenido al perfil de Mike (Osea yo 🤞)</h1>
 
 <table  align="center" width=900>
   <tr>
