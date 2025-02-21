@@ -35,7 +35,7 @@
 <p align='center'>Miguel_Alonso44@hotmail.com</p>
 
 <h3 align='center'>LinkedIn</h3>
-<a href="linkedin.com/in/erlv"><p align='center'>linkedin.com/in/erlv</p></a>
+<a href="https://www.linkedin.com/in/erlv"><p align='center'>linkedin.com/in/erlv</p></a>
 
 <h3 align='center'>Celular</h3>
 <p align='center'>687-168-49-58</p>
