@@ -21,7 +21,7 @@
   <td>
     <a href="Curriculum.pdf"><img src="Curriculum.png" width=300  align="left"></a>
   </td>
-<td>
+<td align="center">
   
 ![Estadisticas Mike](https://github-readme-stats.vercel.app/api?username=ING-Mike-Programador&show_icons=true&theme=holi)
 
