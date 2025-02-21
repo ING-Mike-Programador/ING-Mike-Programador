@@ -1,13 +1,13 @@
-<h1>Bienvenido al perfil de Mike (Osea yo 🤞)</h1>
+<h1>Bienvenido al perfil de Mike (O sea yo 🤞)</h1>
 
 <table  align="center" width=900>
   <tr>
     <td>
       <p  align="left">
-<h3>Nombre: </h3><p>Miguel Alonso Lopez Peñuelas</p>
+<h3>Nombre: </h3><p>Miguel Alonso López Peñuelas</p>
 <h3>Nacionalidad: </h3> <p>Mexicana 🇲🇽</p>
-<h3>Grado: </h3><p>Ingeniero en sistemas computacionales 💻</p> 
-<h3>Actividad favorita: </h3> <p>Desarrollo de software</p>
+<h3>Grado: </h3><p>Ingeniero en Sistemas Computacionales 💻</p> 
+<h3>Actividad favorita: </h3> <p>Desarrollo de Software</p>
       </p>
       </td>
     <td>
@@ -31,11 +31,11 @@
 
 <h1 align='center'>Contacto</h1>
 
-<h3 align='center'>Correo electronico</h3>
+<h3 align='center'>Correo Electrónico</h3>
 <p align='center'>Miguel_Alonso44@hotmail.com</p>
 
-<h3 align='center'>linkedin</h3>
-<a href="www.linkedin.com/in/erlv"><p align='center'>www.linkedin.com/in/erlv</p></a>
+<h3 align='center'>LinkedIn</h3>
+<a href="linkedin.com/in/erlv"><p align='center'>linkedin.com/in/erlv</p></a>
 
 <h3 align='center'>Celular</h3>
 <p align='center'>687-168-49-58</p>
