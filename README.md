@@ -23,7 +23,7 @@
 <br/>
 <table align="center">
   <td>
-    <a href="Curriculum.pdf"><img src="Curriculum.png" width=400  align="left"></a>
+    <a href="CV Miguel López Peñuelas.pdf"><img src="CV Miguel López Peñuelas.jpg" width=400  align="left"></a>
   </td>
 <td align="center">
   
