@@ -45,7 +45,7 @@
 <a href="https://www.linkedin.com/in/erlv"><p align='center'>linkedin.com/in/erlv</p></a>
 
 <h3 align='center'>Celular</h3>
-<p align='center'>687-168-49-58</p>
+<p align='center'>687-156-49-58</p>
 
 
 
