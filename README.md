@@ -27,8 +27,7 @@
   </td>
 <td align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ING-Mike-Programador&show_icons=true&theme=github_dark&layout=donut) 
-
+![Top Langs stats](https://github-readme-stats-fast.vercel.app/api?username=ING-Mike-Programador&show_icons=true&theme=github_dark&layout=donut)
 ![Estadisticas Mike](https://github-readme-stats.vercel.app/api?username=ING-Mike-Programador&show_icons=true&theme=holi)
 </td>
 </table>
