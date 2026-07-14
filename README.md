@@ -26,9 +26,9 @@
     <a href="CV Miguel López Peñuelas.pdf"><img src="CV Miguel López Peñuelas.jpg" width=400  align="left"></a>
   </td>
 <td align="center">
-  
-![Top Langs stats](https://github-readme-stats-fast.vercel.app/api?username=ING-Mike-Programador&show_icons=true&theme=github_dark&layout=donut)
-![Estadisticas Mike](https://github-readme-stats.vercel.app/api?username=ING-Mike-Programador&show_icons=true&theme=holi)
+  ING-Mike-Programador
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" 
 </td>
 </table>
 <br>
