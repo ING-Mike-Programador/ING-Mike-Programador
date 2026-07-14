@@ -19,27 +19,4 @@
     </td>
     </tr>
 </table>
-<h1 align='center'>Perfil</h1>
-<br/>
-
-<br>
-
-<h1 align='center'>Contacto</h1>
-
-<h3 align='center'>Correo Electrónico</h3>
-<p align='center'>Miguel_Alonso44@hotmail.com</p>
-
-<h3 align='center'>LinkedIn</h3>
-<a href="https://www.linkedin.com/in/erlv"><p align='center'>linkedin.com/in/erlv</p></a>
-
-<h3 align='center'>Celular</h3>
-<p align='center'>687-156-49-58</p>
-
-
-
-
-
-
-
-
 
