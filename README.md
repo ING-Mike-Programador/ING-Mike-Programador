@@ -21,17 +21,6 @@
 </table>
 <h1 align='center'>Perfil</h1>
 <br/>
-<table align="center">
-  <td>
-    <a href="CV Miguel López Peñuelas.pdf"><img src="CV Miguel López Peñuelas.jpg" width=400  align="left"></a>
-  </td>
-<td align="center">
-  ING-Mike-Programador
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" 
-</td>
-</table>
-<br>
 
 <br>
 
