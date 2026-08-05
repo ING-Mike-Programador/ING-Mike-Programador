@@ -1,4 +1,4 @@
-# 👋 Hola, soy Miguel🤞💙
+# 👋 Hola, soy Miguel
 
 Bienvenido a mi espacio en GitHub.  
 Soy **Ingeniero en sistemas computacionales** apasionado por la tecnología, el aprendizaje continuo y la creación de proyectos con impacto real.
@@ -33,8 +33,9 @@ Soy **Ingeniero en sistemas computacionales** apasionado por la tecnología, el 
 
 ---
 ## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ING-Mike-Programador&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ING-Mike-Programador&layout=compact&theme=tokyonight)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ING-Mike-Programador&theme=midnight&border_radius=7.5&custom_title=MY+STATISTICS+CARD)
+---
+![Top Languages](https://ghstats.dev/api/langs?username=ING-Mike-Programador&theme=nightowl&custom_title=STATISTICS+ON+PROGRAMMING+LANGUAGES&layout=grid)
 
 ---
 
