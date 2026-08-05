@@ -26,16 +26,22 @@ Soy **Ingeniero en sistemas computacionales** apasionado por la tecnología, el 
 
 ---
 
-## 📌 Objetivo actual
-Aprendizaje profundo del idioma ingles y de nuevas tecnologías de desarrollo movil como React y Flutter.
+## 📌 Objetivos actuales
+- 🌍 Aprendizaje profundo del **idioma inglés**.  
+- ⚙️ Dominio de **Node.js** para desarrollo backend moderno.  
+- 🐘 Consolidar conocimientos en **PHP** y **Python** como lenguajes backend principales.  
+
+---
+## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ING-Mike-Programador&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ING-Mike-Programador&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Conecta conmigo
-- 💼 LinkedIn: *www.linkedin.com/in/erlv*  
-- 📧 Email: *Miguel_Alonso44@hotmail.com*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/erlv)  
+- 📧 [Email](mailto:Miguel_Alonso44@hotmail.com)  
 - 🌍 Ubicación: Sinaloa, México  
-
 ---
 
 ✨ *Este perfil refleja mi pasión por aprender, construir y compartir conocimiento.*
