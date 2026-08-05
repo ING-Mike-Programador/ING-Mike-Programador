@@ -37,6 +37,7 @@ Soy **Ingeniero en sistemas computacionales** apasionado por la tecnología, el 
 ---
 ![Top Languages](https://ghstats.dev/api/langs?username=ING-Mike-Programador&theme=nightowl&custom_title=STATISTICS+ON+PROGRAMMING+LANGUAGES&layout=grid)
 ---
+## 💹 ACTIVIDAD RECIENTE
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=ING-Mike-Programador&theme=ocean&days=30&width=320&height=80&border_radius=7)
 ---
 
